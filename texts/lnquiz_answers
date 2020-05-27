@@ -1,0 +1,10 @@
+1; S2F|stock to flow|stock-to-flow
+2; u+20bf|
+3; Secp256k1
+4; 500 millions|500|500millions|500 000 000|{any number between 490000000 and 510000000}|{any number between 490 and 510}
+5; {any number between 85 and 105}
+6; #lntrustchain2|lntrustchain2
+7; xbt
+8; {any number between 67 and 71}
+9; Merkle
+10; gold|xau
